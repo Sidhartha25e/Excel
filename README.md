@@ -17,18 +17,18 @@ This is more than just a collection of Excel files—it's my journey into the wo
 
 | **Project Name**                     | **Description**                            | **Difficulty**  |
 |--------------------------------------|--------------------------------------------|-----------------|
-| 🏦 **Loan Calculator**               | Calculated my loan and optimized payments. | Beginner        |
-| 📊 **Monthly Budget Tracker**        | A dynamic tracker to manage expenses.      | Intermediate    |
-| 🚚 **Supply Chain Efficiency Model** | Optimized inventory flows for businesses.  | Advanced        |
-| 📈 **YouTube Analytics Dashboard**   | Visualized channel performance data.       | Intermediate    |
-| 🛍️ **Marketing ROI Calculator**      | Measured the impact of ad campaigns.       | Advanced        |
+| 🏦 **Loan Calculator**               | Calculated my loan and and deducted tax.   | Beginner        |
+| 📊 **2nd**                           |                                            | Intermediate    |
+| 🚚 **3rd**                           |                                            | Advanced        |
+| 📈 **4th**                           |                                            | Intermediate    |
+| 🛍️ **5th**                           |                                            | Advanced        |
 
 ---
 
 ## 🎥 Quick Demo
 
 ![Excel Animation](https://your-animation-link.com)  
-*(Replace the link with a GIF or image URL showing your work in action!)*
+*(coming soon)*
 
 ---
 
@@ -36,8 +36,7 @@ This is more than just a collection of Excel files—it's my journey into the wo
 
 If my projects inspire you or if you’d like to collaborate, reach out to me!  
 
-📫 Email: [your-email@example.com](mailto:your-email@example.com)  
-💼 LinkedIn: [Sidhartha's Profile](https://linkedin.com/in/your-profile)  
+💼 LinkedIn: [Sidhartha's Profile](www.linkedin.com/in/thesidharth)  
 
 ---
 
